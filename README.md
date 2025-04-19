@@ -1,0 +1,17 @@
+https://www.oracle.com/java/technologies/javase-jdk19-doc-downloads.html
+
+
+    名称: jdk-19.0.2_doc-all.zip
+    大小: 52246753 字节 : 49 MiB
+    CRC32: AB99DEB9
+    CRC64: 44D266DB057B3B76
+    SHA256: f7f978225836e96cb0729f1341a26a55e33801b5091eee44f7a11080256f56ae
+    SHA1: 128d20f72ec4358d2f19b7505021aec9f19fb8f6
+    BLAKE2sp: 2ce2df6a767d19a3579cd4da87fd53e64bf278affbd14c3fa1a8d98e1a7be207
+    MD5: 3a5dab1a454cb968136853b301d5e9a6
+    XXH64: D262DD488D6402FE
+    SHA384: 57d31369579f51c0c91e5d802a79b5d19159b52ee4953aefc5da2b2ecc0dfe457393b1dfaf311c55bcc4eadef970b645
+    SHA512: ce9f391ba43183bf253d30c8ea02e013a090c81b02efcfb77654bdc87ab7d2c3d35be1d4a5b1c7cb476ae4c5907d6ab83c1f69f8ec334881f6c9631ea3fea904
+    SHA3-256: cb93769dbdfb9fec2f0fce611639564fe5a263123b2f196cadc7e48dc818c772
+
+
